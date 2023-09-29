@@ -1,13 +1,13 @@
-
+ import Layout from "../../Components/Layout"
 
 function Home() {
 
   return (
     
-      <div className="bg-orange-500">
+    <Layout>
       Home
-      </div>
-    
+    </Layout>
+                
   )
 }
 
