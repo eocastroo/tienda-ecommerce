@@ -66,7 +66,7 @@ const Navbar = () => {
             </li>
          </ul>
          <ul className = 'flex items-center gap-3'>
-            <li className ='text-black/50'>
+            <li className ='text-black/70'>
                    marvin1186@hotmail.com
             </li>
             <li>
